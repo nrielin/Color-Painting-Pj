@@ -1,0 +1,182 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\string_arrays.xml",
+                    "from": {
+                        "startLines": "3,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,382",
+                        "endLines": "11,21",
+                        "endColumns": "19,19",
+                        "endOffsets": "374,572"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,359",
+                        "endLines": "9,17",
+                        "endColumns": "19,19",
+                        "endOffsets": "354,533"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3,5,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,110,221,163",
+                        "endColumns": "51,51,65,56",
+                        "endOffsets": "104,157,282,215"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "538,590,642,708",
+                        "endColumns": "51,51,65,56",
+                        "endOffsets": "585,637,703,760"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "22,2,10,9,8,15,11,7,14,12,6,16,13,19,17,18,3,5,4,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1680,57,660,589,524,1053,731,425,973,801,337,1146,886,1349,1232,1279,104,261,183,1461,1586",
+                        "endColumns": "71,45,69,69,63,91,68,97,78,83,86,84,85,110,45,68,77,74,76,123,92",
+                        "endOffsets": "1747,98,725,654,583,1140,795,518,1047,880,419,1226,967,1455,1273,1343,177,331,255,1580,1674"
+                    },
+                    "to": {
+                        "startLines": "35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1498,1570,1616,1686,1756,1820,1912,1981,2079,2158,2242,2329,2414,2500,2611,2657,2726,2804,2879,2956,3080",
+                        "endColumns": "71,45,69,69,63,91,68,97,78,83,86,84,85,110,45,68,77,74,76,123,92",
+                        "endOffsets": "1565,1611,1681,1751,1815,1907,1976,2074,2153,2237,2324,2409,2495,2606,2652,2721,2799,2874,2951,3075,3168"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\dimensions.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,14,12,10,11,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,117,175,238,291,673,742,613,502,558,343,397,450",
+                        "endColumns": "58,56,61,51,50,67,59,58,54,53,52,51,50",
+                        "endOffsets": "111,169,232,285,337,736,797,667,552,607,391,444,496"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "765,824,881,943,995,1046,1114,1174,1233,1288,1342,1395,1447",
+                        "endColumns": "58,56,61,51,50,67,59,58,54,53,52,51,50",
+                        "endOffsets": "819,876,938,990,1041,1109,1169,1228,1283,1337,1390,1442,1493"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "4,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "97,245",
+                        "endLines": "6,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "237,488"
+                    },
+                    "to": {
+                        "startLines": "56,59",
+                        "startColumns": "4,4",
+                        "startOffsets": "3173,3281",
+                        "endLines": "58,62",
+                        "endColumns": "12,12",
+                        "endOffsets": "3276,3521"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "de.frype.coloring.app-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\string_arrays.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,359",
+                        "endLines": "9,17",
+                        "endColumns": "19,19",
+                        "endOffsets": "354,533"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "538,590,642,708",
+                        "endColumns": "51,51,65,56",
+                        "endOffsets": "585,637,703,760"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,57,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,96,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1498,1570,1614,1684,1754,1818,1910,1979,2077,2156,2240,2327,2412,2498,2609,2655,2724,2802,2877,2954,3078",
+                        "endColumns": "71,43,69,69,63,91,68,97,78,83,86,84,85,110,45,68,77,74,76,123,92",
+                        "endOffsets": "1565,1609,1679,1749,1813,1905,1974,2072,2151,2235,2322,2407,2493,2604,2650,2719,2797,2872,2949,3073,3166"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\dimensions.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "765,824,881,943,995,1046,1114,1174,1233,1288,1342,1395,1447",
+                        "endColumns": "58,56,61,51,50,67,59,58,54,53,52,51,50",
+                        "endOffsets": "819,876,938,990,1041,1109,1169,1228,1283,1337,1390,1442,1493"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "56,59",
+                        "startColumns": "4,4",
+                        "startOffsets": "3171,3279",
+                        "endLines": "58,62",
+                        "endColumns": "12,12",
+                        "endOffsets": "3274,3519"
+                    }
+                }
+            ]
+        }
+    ]
+}

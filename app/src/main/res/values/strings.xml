@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tô màu</string>
+    <string name="error_log_file" translatable="false">error_log.txt</string>
+    <string name="library_root_folder" translatable="false">library</string>
+    <string name="library_file" translatable="false">library.json</string>
+    <string name="content_description_page_image">Xem trước trang được tô màu</string>
+    <string name="content_description_book_image">Xem trước một cuốn sách sẽ được tô màu</string>
+    <string name="coloring_end_dialog_title">Kết thúc?</string>
+    <string name="coloring_end_dialog_positive">Lưu và thoát</string>
+    <string name="coloring_end_dialog_neutral">Chỉ cần thoát</string>
+    <string name="content_description_back_button">Quay lại</string>
+    <string name="content_description_image_gallery">Hiển thị thư viện ảnh</string>
+    <string name="content_description_share_button">Chia sẻ hình ảnh đã chọn</string>
+    <string name="content_description_delete_button">Xóa hình đã chọn</string>
+    <string name="content_description_about_button">Hiển thị thông tin về ứng dụng</string>
+    <string name="content_description_preferences_button">Hiển thị tùy chọn</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="error_log_dialog_send_report">Gửi báo cáo</string>
+    <string name="content_description_view_image_button">Hiển thị ảnh đã chọn ở chế độ toàn màn hình.</string>
+    <string name="toast_external_storage_unavailable">Không có bộ nhớ ngoài. Không thể lưu trữ hoặc truy xuất ảnh.</string>
+    <string name="toast_gallery_no_pictures">Chưa có tranh tô màu cho cuốn sách đó.</string>
+    <string name="animation_duration" translatable="false">500</string>
+</resources>

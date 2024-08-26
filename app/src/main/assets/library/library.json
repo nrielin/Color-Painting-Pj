@@ -1,0 +1,88 @@
+[
+ {
+  "name": "Cartoon animals",
+  "folder": "book_cartoon_animals",
+  "cover": "cover.png",
+  "pages": [
+   {
+    "name": "Beaver",
+    "file": "beaver.png"
+   },
+   {
+    "name": "Bee",
+    "file": "bee.png"
+   },
+   {
+    "name": "Bunny",
+    "file": "bunny.png"
+   },
+   {
+    "name": "Cat",
+    "file": "cat.png"
+   },
+   {
+    "name": "Cat",
+    "file": "cat2.png"
+   },
+   {
+    "name": "Chicken",
+    "file": "chicken.png"
+   },
+   {
+    "name": "Cow",
+    "file": "cow.png"
+   },
+   {
+    "name": "Dog",
+    "file": "dog.png"
+   },
+   {
+    "name": "Elephant",
+    "file": "elephant.png"
+   },
+   {
+    "name": "Elephant",
+    "file": "elephant2.png"
+   },
+   {
+    "name": "Giraffe",
+    "file": "giraffe.png"
+   },
+   {
+    "name": "Pig",
+    "file": "pig.png"
+   },
+   {
+    "name": "Mallard",
+    "file": "mallard.png"
+   },
+   {
+    "name": "Owl",
+    "file": "owl.png"
+   },
+   {
+    "name": "Sheep",
+    "file": "sheep.png"
+   },
+   {
+    "name": "Triceratops",
+    "file": "triceratops.png"
+   }
+  ]
+ },
+ {
+  "name": "Misc",
+  "folder": "book_misc",
+  "cover": "cover.png",
+  "pages": [
+   {
+    "name": "Car",
+    "file": "car.png"
+   },
+   {
+    "name": "Ice cream cone",
+    "file": "ice_cream_cone.png"
+   }
+  ]
+ }
+]

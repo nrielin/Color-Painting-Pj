@@ -1,0 +1,8 @@
+de.frype.coloring.app-pngs-0 C:\Users\ADMIN\Downloads\Tomauchobe\app\build\generated\res\pngs\debug
+de.frype.coloring.app-resValues-1 C:\Users\ADMIN\Downloads\Tomauchobe\app\build\generated\res\resValues\debug
+de.frype.coloring.app-rs-2 C:\Users\ADMIN\Downloads\Tomauchobe\app\build\generated\res\rs\debug
+de.frype.coloring.app-packageDebugResources-3 C:\Users\ADMIN\Downloads\Tomauchobe\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+de.frype.coloring.app-packageDebugResources-4 C:\Users\ADMIN\Downloads\Tomauchobe\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+de.frype.coloring.app-merged_res-5 C:\Users\ADMIN\Downloads\Tomauchobe\app\build\intermediates\merged_res\debug
+de.frype.coloring.app-debug-6 C:\Users\ADMIN\Downloads\Tomauchobe\app\src\debug\res
+de.frype.coloring.app-main-7 C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\res

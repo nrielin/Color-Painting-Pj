@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_coloring_scale_behavior_entries">
+
+        <item>Show full picture, keep aspect ratio</item>
+        <item>Fill space, keep aspect ratio</item>
+        <item>Compromise picture and empty space</item>
+        <item>Stretch picture to fill space</item>
+
+    </string-array>
+    <string-array name="setting_coloring_scale_behavior_values">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+    <color name="bg_button_enabled">#212121</color>
+    <color name="bg_button_pressed">#616161</color>
+    <color name="text_background_overlay_image">#80424242</color>
+    <color name="text_color_books_pages">#448aff</color>
+    <dimen name="activity_horizontal_padding">16dp</dimen>
+    <dimen name="activity_vertical_padding">16dp</dimen>
+    <dimen name="book_gridview_vertical_spacing">40dp</dimen>
+    <dimen name="book_preview_padding">10dp</dimen>
+    <dimen name="book_preview_width">180dp</dimen>
+    <dimen name="color_selection_button_corner_radius">24dp</dimen>
+    <dimen name="color_selection_button_margin">3dp</dimen>
+    <dimen name="color_selection_button_size">38dp</dimen>
+    <dimen name="navigation_button_margin">4dp</dimen>
+    <dimen name="navigation_button_size">48dp</dimen>
+    <dimen name="page_gridview_spacing">15dp</dimen>
+    <dimen name="page_preview_padding">10dp</dimen>
+    <dimen name="page_preview_width">130dp</dimen>
+    <string name="animation_duration" translatable="false">500</string>
+    <string name="app_name">Tô màu</string>
+    <string name="coloring_end_dialog_neutral">Chỉ cần thoát</string>
+    <string name="coloring_end_dialog_positive">Lưu và thoát</string>
+    <string name="coloring_end_dialog_title">Kết thúc?</string>
+    <string name="content_description_about_button">Hiển thị thông tin về ứng dụng</string>
+    <string name="content_description_back_button">Quay lại</string>
+    <string name="content_description_book_image">Xem trước một cuốn sách sẽ được tô màu</string>
+    <string name="content_description_delete_button">Xóa hình đã chọn</string>
+    <string name="content_description_image_gallery">Hiển thị thư viện ảnh</string>
+    <string name="content_description_page_image">Xem trước trang được tô màu</string>
+    <string name="content_description_preferences_button">Hiển thị tùy chọn</string>
+    <string name="content_description_share_button">Chia sẻ hình ảnh đã chọn</string>
+    <string name="content_description_view_image_button">Hiển thị ảnh đã chọn ở chế độ toàn màn hình.</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="error_log_dialog_send_report">Gửi báo cáo</string>
+    <string name="error_log_file" translatable="false">error_log.txt</string>
+    <string name="library_file" translatable="false">library.json</string>
+    <string name="library_root_folder" translatable="false">library</string>
+    <string name="toast_external_storage_unavailable">Không có bộ nhớ ngoài. Không thể lưu trữ hoặc truy xuất ảnh.</string>
+    <string name="toast_gallery_no_pictures">Chưa có tranh tô màu cho cuốn sách đó.</string>
+    <style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        
+    </style>
+    <style name="NavigationButtonStyle" parent="android:Widget.Button">
+        <item name="android:layout_margin">@dimen/navigation_button_margin</item>
+        <item name="android:background">@drawable/bg_button_navigation</item>
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+#Wed May 03 09:49:27 ICT 2023
+base.0=C\:\\Users\\ADMIN\\Downloads\\Tomauchobe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

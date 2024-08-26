@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.frype.coloring"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:5:22-78
+12
+13    <application
+13-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:7:5-44:19
+14        android:name="de.frype.coloring.ColoringApplication"
+14-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:8:9-44
+15        android:allowBackup="true"
+15-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:9:9-35
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:10:9-45
+18        android:label="@string/app_name"
+18-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:11:9-41
+19        android:supportsRtl="true"
+19-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:12:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:13:9-40
+22        <activity
+22-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:14:9-16:53
+23            android:name="de.frype.coloring.settings.SettingsActivity"
+23-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:15:13-54
+24            android:screenOrientation="landscape" />
+24-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:16:13-50
+25        <activity
+25-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:17:9-19:53
+26            android:name="de.frype.coloring.about.AboutActivity"
+26-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:18:13-48
+27            android:screenOrientation="landscape" />
+27-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:19:13-50
+28        <activity
+28-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:20:9-22:53
+29            android:name="de.frype.coloring.coloring.ColoringActivity"
+29-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:21:13-54
+30            android:screenOrientation="landscape" />
+30-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:22:13-50
+31        <activity
+31-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:23:9-25:53
+32            android:name="de.frype.coloring.color_picker.ColorPickerActivity"
+32-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:24:13-61
+33            android:screenOrientation="landscape" />
+33-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:25:13-50
+34        <activity
+34-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:26:9-28:53
+35            android:name="de.frype.coloring.page_selection.PageSelectionActivity"
+35-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:27:13-65
+36            android:screenOrientation="landscape" />
+36-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:28:13-50
+37        <activity
+37-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:29:9-31:53
+38            android:name="de.frype.coloring.picture_gallery.PictureGalleryActivity"
+38-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:30:13-67
+39            android:screenOrientation="landscape" />
+39-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:31:13-50
+40        <activity
+40-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:32:9-40:20
+41            android:name="de.frype.coloring.book_selection.BookSelectionMainActivity"
+41-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:33:13-69
+42            android:exported="true"
+42-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:35:13-36
+43            android:screenOrientation="landscape" >
+43-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:34:13-50
+44            <intent-filter>
+44-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:36:13-39:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:37:17-69
+45-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:37:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:38:17-77
+47-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:38:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:41:9-43:52
+51            android:name="de.frype.coloring.error_log.SendLogActivity"
+51-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:42:13-54
+52            android:screenOrientation="portrait" />
+52-->C:\Users\ADMIN\Downloads\Tomauchobe\app\src\main\AndroidManifest.xml:43:13-49
+53    </application>
+54
+55</manifest>

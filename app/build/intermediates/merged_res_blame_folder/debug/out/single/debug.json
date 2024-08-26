@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\anim_slide_out_to_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_navigate_before_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_navigate_before_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_bg_button_navigation.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\bg_button_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_bg_button_color_selection.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\bg_button_color_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_share_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_share_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_element_book_selection.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\element_book_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_back.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_close_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_close_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_element_page_selection.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\element_page_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_bg_view_border.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\bg_view_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_delete_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_delete_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_back2.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\back2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_close_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_close_white_48dp.png"
+    },
+    {
+        "merged": "de.frype.coloring.app-merged_res-5:/layout_activity_color_picker.xml.flat",
+        "source": "de.frype.coloring.app-main-7:/layout/activity_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_coloring.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_coloring.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_element_color_selection_grid.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\element_color_selection_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_book_selection_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_book_selection_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_picture_gallery.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_picture_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_photo_library_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_photo_library_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_share_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_share_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-hdpi_ic_settings_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-hdpi\\ic_settings_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_bg_button_navigation_pressed.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\bg_button_navigation_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_page_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\page_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_navigate_before_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_navigate_before_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_delete_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_delete_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\xml_settings.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_page_selection.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_page_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\anim_slide_out_to_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_book_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\book_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\anim_slide_in_from_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_settings_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_settings_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_send_log.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_send_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_back1.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\anim_slide_in_from_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_bg_button_navigation_enabled.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\bg_button_navigation_enabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\layout_activity_color_picker.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\layout\\activity_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable_back3.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable\\back3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-merged_res-5:\\drawable-xxhdpi_ic_photo_library_white_48dp.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5.1\\de.frype.coloring.app-main-7:\\drawable-xxhdpi\\ic_photo_library_white_48dp.png"
+    }
+]
